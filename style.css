@@ -27,15 +27,14 @@ nav {
   border-top-right-radius: 4px 4px;
   border-bottom-right-radius: 4px 4px;
   border-bottom-left-radius: 4px 4px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.296875) 0  1px 2px;
   box-shadow: rgba(0, 0, 0, 0.296875) 0  1px 2px;
   font: normal normal normal 12px/18px 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
   top: 18px;
   height: 36px;
   background-size: cover;
   background-image: url('https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png');
-  background-origin: initial, initial, initial, initial;
-  background-clip: initial, initial, initial, initial;
+ 
+
   background-color: transparent;
   margin: 0 auto;
   padding: 0;
@@ -43,7 +42,6 @@ nav {
 
 ul {
   position: relative;
-  zoom: 1;
   height: 36px;
   display: table;
   float: left;
@@ -75,9 +73,6 @@ li {
   display: block;
   float: none;
   text-decoration: none;
-  -webkit-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
-  -moz-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
-  -o-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
   width: auto;
   background-image: none;
   background-color: transparent;
@@ -111,9 +106,6 @@ li {
   display: block;
   float: none;
   text-decoration: none;
-  -webkit-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
-  -moz-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
-  -o-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
   width: auto;
   background-image: none;
   background-color: transparent;
@@ -167,9 +159,6 @@ li a span {
   width: 106px;
   background-image: none;
   background-color: transparent;
-  -webkit-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg==') 0 2 0 1 stretch stretch;
-  -moz-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg==') 0 2 0 1 stretch stretch;
-  -o-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg==') 0 2 0 1 stretch stretch;
   z-index: 0;
   border-width: 0  2px 0  1px;
   margin: 0;
@@ -190,7 +179,6 @@ li a span {
   border-bottom-left-radius: 12px 12px;
   box-shadow: rgba(0, 0, 0, 0.597656) 0  2px 1px inset, rgba(255, 255, 255, 0.199219) 0  1px 0;
   z-index: 0;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0  -1px 0, rgba(255, 255, 255, 0.199219) 0  1px 0;
   background-repeat: no-repeat;
   border-width: 0;
   border-style: none;
@@ -211,7 +199,6 @@ li a span {
 
 .input_style {
   text-align: left;
-  -webkit-appearance: none;
   color: rgb(255, 255, 255);
   background-color: transparent;
   width: 100%;
@@ -222,8 +209,6 @@ li a span {
   border-bottom-right-radius: 12px 12px;
   border-bottom-left-radius: 12px 12px;
   box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -ms-box-sizing: border-box;
   z-index: 0;
   border-width: 0;
   border-style: none;
