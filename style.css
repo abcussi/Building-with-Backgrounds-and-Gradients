@@ -48,9 +48,9 @@ ul{
     width:845px;
     table-layout:fixed;
     z-index:0;
-    list-style: none outside none; 
-    margin: 0px; 
-    padding: 0px; 
+    list-style: none outside none;
+    margin: 0;
+    padding: 0; 
 }
 li{
     height:36px;
@@ -58,8 +58,8 @@ li{
     width:100%;
     overflow-x:hidden;
     overflow-y:hidden;
-    margin: 0px; 
-    padding: 0px; 
+    margin: 0;
+    padding: 0;
 }
 .apple_logo{
     color:rgb(0, 136, 204);
@@ -76,14 +76,14 @@ li{
     -o-border-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F+KwQEADZUCf37PGokAAAAASUVORK5CYII=') 0 2 0 1 stretch stretch;
     width:auto;
     background-image:none;
-    background-color: transparent; 
+    background-color: transparent;
     border-top-left-radius:4px 4px;
     border-top-right-radius:0px 0px;
     border-bottom-right-radius:0px 0px;
     border-bottom-left-radius:4px 4px;
-    outline: invert none medium; 
-    border-width: 0px 2px 0px 0px; 
-    border-style: solid; 
+    outline: invert none medium;
+    border-width: 0px 2px 0px 0px;
+    border-style: solid;
 }
 .span_logo{
     display:block;
