@@ -33,9 +33,7 @@ nav {
   height: 36px;
   background-size: cover;
   background-image: url('https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png');
- 
-
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.296875);
   margin: 0 auto;
   padding: 0;
 }
