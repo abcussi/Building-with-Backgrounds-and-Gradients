@@ -82,11 +82,11 @@ li {
   background-image: none;
   background-color: transparent;
   border-top-left-radius: 4px 4px;
-  border-top-right-radius: 0  0 ;
-  border-bottom-right-radius: 0  0 ;
+  border-top-right-radius: 0  0;
+  border-bottom-right-radius: 0  0;
   border-bottom-left-radius: 4px 4px;
   outline: invert none medium;
-  border-width: 0  2px 0  0 ;
+  border-width: 0  2px 0  0;
   border-style: solid;
 }
 
@@ -172,30 +172,30 @@ li a span {
   -o-border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAADUlEQVQIHWP4r8YABgAJCwEmqyi5lgAAAABJRU5ErkJggg==') 0 2 0 1 stretch stretch;
   z-index: 0;
   border-width: 0  2px 0  1px;
-  margin: 0 ;
+  margin: 0;
   padding: 8px 13px;
 }
 
 .form_search {
-  display:block;
-  color:rgb(255, 255, 255);
-  position:relative;
-  width:100%;
-  height:auto;
-  background-image:none;
+  display: block;
+  color: rgb(255, 255, 255);
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-image: none;
   background-color: rgba(255, 255, 255, 0.0976562);
-  border-top-left-radius:12px 12px;
-  border-top-right-radius:12px 12px;
-  border-bottom-right-radius:12px 12px;
-  border-bottom-left-radius:12px 12px;
-  box-shadow:rgba(0, 0, 0, 0.597656) 0  2px 1px inset, rgba(255, 255, 255, 0.199219) 0  1px 0 ;
+  border-top-left-radius: 12px 12px;
+  border-top-right-radius: 12px 12px;
+  border-bottom-right-radius: 12px 12px;
+  border-bottom-left-radius: 12px 12px;
+  box-shadow: rgba(0, 0, 0, 0.597656) 0  2px 1px inset, rgba(255, 255, 255, 0.199219) 0  1px 0;
   z-index: 0;
-  -webkit-box-shadow:rgba(0, 0, 0, 0.398438) 0  -1px 0 , rgba(255, 255, 255, 0.199219) 0  1px 0 ;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0  -1px 0 , rgba(255, 255, 255, 0.199219) 0  1px 0;
   background-repeat: no-repeat;
-  border-width: 0 ;
+  border-width: 0;
   border-style: none;
-  margin: 1px 0  0 ;
-  padding: 0 ;
+  margin: 1px 0  0;
+  padding: 0;
   border-color: white;
 }
 
