@@ -1,4 +1,4 @@
-main{
+main {
     cursor: pointer;
     text-align:left;
     display:block;
@@ -16,7 +16,8 @@ main{
     margin:0px 0px 0px -720px;
     padding:0;
 }
-nav{
+
+nav {
     position:relative;
     display:block;
     width:980px;
@@ -39,7 +40,7 @@ nav{
     margin:0px auto;
     padding:0px
 }
-ul{
+ul {
     position:relative;
     zoom:1;
     height:36px;
@@ -52,7 +53,8 @@ ul{
     margin: 0;
     padding: 0; 
 }
-li{
+
+li {
     height:36px;
     display:table-cell;
     width:100%;
@@ -61,7 +63,8 @@ li{
     margin: 0;
     padding: 0;
 }
-.apple_logo{
+
+.apple_logo {
     color:rgb(0, 136, 204);
     overflow-x:hidden;
     overflow-y:hidden;
@@ -85,7 +88,8 @@ li{
     border-width: 0px 2px 0px 0px;
     border-style: solid;
 }
-.span_logo{
+
+.span_logo {
     display:block;
     width:100%;
     height:30px;
@@ -95,7 +99,8 @@ li{
     background-repeat: no-repeat; 
     margin: 3px auto; 
 }
-.li_menu{
+
+.li_menu {
     color:rgb(0, 136, 204);
     overflow-x:hidden;
     overflow-y:hidden;
@@ -115,7 +120,8 @@ li{
     border-width: 0px 2px 0px 1px; 
     border-style: solid; 
 }
-li a span{
+
+li a span {
     display:block;
     width:100%;
     height:30px;
@@ -124,28 +130,36 @@ li a span{
     background-repeat: no-repeat; 
     margin: 3px auto; 
 }
-.span1{
+
+.span1 {
     background-position: 50% -30px; 
 }
-.span2{
+
+.span2 {
     background-position: 50% -60px;
 }
-.span3{
+
+.span3 {
     background-position: 50% -90px; 
 }
-.span4{
+
+.span4 {
     background-position: 50% -120px; 
 }
-.span5{
+
+.span5 {
     background-position: 50% -150px;
 }
-.span6{
+
+.span6 {
     background-position: 50% -180px;
 }
-.span7{
+
+.span7 {
     background-position: 50% -210px;
 }
-.search_container{
+
+.search_container {
     position:absolute;
     top:0px;
     right:0px;
@@ -160,7 +174,8 @@ li a span{
     margin: 0px; 
     padding: 8px 13px; 
 }
-.form_search{
+
+.form_search {
     display:block;
     color:rgb(255, 255, 255);
     position:relative;
@@ -182,15 +197,18 @@ li a span{
     padding: 0px; 
     border-color: white; 
 }
-.input_container{
+
+.input_container {
     margin: 0px; 
     padding: 0px;
 }
-.label_search{
+
+.label_search {
     display:none;
     margin: 0px;
 }
-.input_style{
+
+.input_style {
     text-align:left;
     -webkit-appearance:none;
     color:rgb(255, 255, 255);
@@ -211,7 +229,8 @@ li a span{
     padding: 2px 18px 1px 22px; 
     border-color: white; 
 }
-.separation_input{
+
+.separation_input {
     position:absolute;
     width:11px;
     height:11px;
@@ -227,7 +246,8 @@ li a span{
     margin: 0px; 
     padding: 0px; 
 }
-.separation_input_back{
+
+.separation_input_back {
     position:absolute;
     display:none;
     width:11px;
@@ -241,12 +261,14 @@ li a span{
     margin: 0px; 
     padding: 0px; 
 }
-.input_2{
+
+.input_2 {
     text-align:left;
     margin: 0px; 
     padding: 0px; 
 }
-.intial_end{
+
+.intial_end {
     position:absolute;
     top:13px;
     left:18px;
@@ -256,7 +278,8 @@ li a span{
     margin: 0px; 
     padding: 0px; 
 }
-.container_end{
+
+.container_end {
     position:absolute;
     opacity:1;
     width:15px;
@@ -268,7 +291,8 @@ li a span{
     margin: 0px; 
     padding: 0px; 
 }
-.end_border{
+
+.end_border {
     position:absolute;
     width:15px;
     height:14px;
@@ -280,7 +304,8 @@ li a span{
     margin: 0px; 
     padding: 0px;
 }
-.position{
+
+.position {
     position:absolute;
     top:32px;
     right:0px;
@@ -290,10 +315,12 @@ li a span{
     margin: 0px; 
     padding: 0px; 
 }
-.text{
+
+.text {
     margin-top: 8%;
 }
-.texth1{
+
+.texth1 {
     text-align:left;
     font-style:normal;
     color:rgb(0, 0, 0);
@@ -303,12 +330,14 @@ li a span{
     margin: 0px 0px -9px;
     padding: 0px; 
 }
-.text_inside{
+
+.text_inside {
    text-align:left;
    color:rgb(0, 136, 204);
    text-decoration:none;
 }
-.img_text1{
+
+.img_text1 {
     height:104px;
     width:980px;
     text-align:left;
@@ -319,7 +348,8 @@ li a span{
     border-style: none; 
     border-color: white; 
 }
-.img_text2{
+
+.img_text2 {
     height:82px;
     width:980px;
     text-align:left;
@@ -330,7 +360,8 @@ li a span{
     border-style: none; 
     border-color: white; 
 }
-.img_text3{
+
+.img_text3 {
     display:block;
     text-align:center;
     position:relative;
@@ -341,14 +372,16 @@ li a span{
     margin: 0px auto; 
     padding: 0px; 
 }
-.img_text3_a{
+
+.img_text3_a {
     color:rgb(0, 136, 204);
     text-decoration:none;
     display:inline-block;
     height:29px;
     margin: 0px 18px 25px; 
 }
-.img_text3_img{
+
+.img_text3_img {
     height:64px;
     width:980px;
     display:inline-block;
@@ -356,7 +389,8 @@ li a span{
     border-style: none; 
     border-color: white; 
 }
-.text_h2{
+
+.text_h2 {
     text-align:left;
     font-style:normal;
     color:rgb(0, 0, 0);
@@ -366,7 +400,8 @@ li a span{
     margin: 0px 0px 27px;
     padding: 0px; 
 }
-.grid_footer{
+
+.grid_footer {
     text-align:left;
     display:block;
     position:absolute;
@@ -381,7 +416,8 @@ li a span{
     background-repeat: no-repeat; 
     margin: 0px 0px 0px -720px; 
 }
-.grid_elements{
+
+.grid_elements {
     margin-top: 3px;
     margin-left: 1px;
     margin-right: 1px   ;
@@ -389,15 +425,18 @@ li a span{
     width: 24.85%;
     height: 200px;
 }
-section div img {
+
+section div img  {
     width: 100%;
     height: 100%;
 }
-footer a{
+
+footer a {
     color:rgb(0, 136, 204);
     text-decoration:none;
 }
-.bottom{
+
+.bottom {
     text-align:left;
     display:block;
     position:absolute;
@@ -414,37 +453,43 @@ footer a{
     margin: 0px 0px 0px -720px; 
     padding: 0px;
 }
-.bottom_container{
+
+.bottom_container {
     font-size: 0.8334em;
 }
-.text1{
+
+.text1 {
         width: 550px;
         margin-left: 5%;
         display: flex;
         float: left;
 }
-.text2{
+
+.text2 {
     float: right;
     width: 720px;
     text-align: right;
     margin-right: 4%;
 }
-.text2 a{
+
+.text2 a {
     text-align: right;
     border-right: 1px solid #999; 
     padding-right: 10px;
     padding-left: 10px;
 }
 
-.text3{
+.text3 {
     width: 550px;
     padding-top: 2%;
     margin-left: 5%;
 }
-.terms{
+
+.terms {
     border-right: 1px solid #999; 
     padding-right: 10px;
 }
-.privacy{
+
+.privacy {
     padding-left: 10px;
 }
