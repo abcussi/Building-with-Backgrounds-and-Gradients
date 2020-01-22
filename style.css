@@ -409,7 +409,7 @@ li a span {
   display: block;
   position: absolute;
   top: 100%;
-  bottom: 0px;
+  bottom: 0;
   right: auto;
   left: 50%;
   width: 1440px;
@@ -429,7 +429,7 @@ li a span {
   height: 200px;
 }
 
-section div img  {
+section div img {
   width: 100%;
   height: 100%;
 }
