@@ -314,7 +314,7 @@ li a span{
     background-position: 50% 100%; 
     background-repeat: no-repeat; 
     margin: 0px 0px 0px -720px; 
-    padding: 0px;   
+   
 }
 .grid_elements{
     margin-top: 3px;
@@ -328,16 +328,20 @@ section div img {
     width: 100%;
     height: 100%;
 }
+footer a{
+    color:rgb(0, 136, 204);
+    text-decoration:none;
+}
 .bottom{
     text-align:left;
     display:block;
     position:absolute;
-    top:130%;
+    top:138%;
     bottom:0px;
     right:auto;
     left:50%;
     width:1440px;
-    height: 90px;
+    height: 70px;
     background-color: transparent; 
     background-size:1440px 1315px;
     background-position: 50% 100%; 
@@ -346,6 +350,38 @@ section div img {
     padding: 0px;
 }
 .bottom_container{
-    height: 90px;
-    background-color: olive;
+    font-size: 0.8334em;
+}
+.text1{
+        width: 550px;
+        margin-left: 5%;
+        display: flex;
+        float: left;
+}
+.text2{
+    float: right;
+    width: 720px;
+    text-align: right;
+    margin-right: 4%;
+    
+    
+}
+.text2 a{
+    text-align: right;
+    border-right: 1px solid #999; 
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.text3{
+    width: 550px;
+    padding-top: 2%;
+    margin-left: 5%;
+}
+.terms{
+    border-right: 1px solid #999; 
+    padding-right: 10px;
+}
+.privacy{
+    padding-left: 10px;
 }
