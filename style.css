@@ -298,107 +298,107 @@ li a span {
   position: absolute;
   width: 15px;
   height: 14px;
-z-index:0;
-opacity:0;
-background-color: transparent;
-background-image:url('data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpldj0iaHR0cDovL3d3dy53My5vcmcvMjAwMS94bWwtZXZlbnRzIj4KPGc+Cgk8cG9seWdvbiBmaWxsPSIjNjY2IiBwb2ludHM9IjkuMjA3LDYuMTI2IDcuNzkzLDcuNTQxIDExLjc5MywxMS41NDEgMTMuMjA3LDEwLjEyNiIgLz4KCTxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik01LjkxNywyYzEuNjA4LDAsMi45MTcsMS4zMDgsMi45MTcsMi45MTdTNy41MjUsNy44MzMsNS45MTcsNy44MzNTMyw2LjUyNSwzLDQuOTE3UzQuMzA4LDIsNS45MTcsMgoJCSBNNS45MTcsMEMzLjIwMSwwLDEsMi4yMDEsMSw0LjkxN3MyLjIwMSw0LjkxNyw0LjkxNyw0LjkxN3M0LjkxNy0yLjIwMSw0LjkxNy00LjkxN0MxMC44MzMsMi4yMDEsOC42MzIsMCw1LjkxNywwTDUuOTE3LDB6IiAvPgo8L2c+Cjwvc3ZnPgo=');
-background-repeat: no-repeat; 
-margin: 0 ; 
-padding: 0 ;
+  z-index: 0;
+  opacity: 0;
+  background-color: transparent;
+  background-image: url('data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWxuczpldj0iaHR0cDovL3d3dy53My5vcmcvMjAwMS94bWwtZXZlbnRzIj4KPGc+Cgk8cG9seWdvbiBmaWxsPSIjNjY2IiBwb2ludHM9IjkuMjA3LDYuMTI2IDcuNzkzLDcuNTQxIDExLjc5MywxMS41NDEgMTMuMjA3LDEwLjEyNiIgLz4KCTxwYXRoIGZpbGw9IiM2NjYiIGQ9Ik01LjkxNywyYzEuNjA4LDAsMi45MTcsMS4zMDgsMi45MTcsMi45MTdTNy41MjUsNy44MzMsNS45MTcsNy44MzNTMyw2LjUyNSwzLDQuOTE3UzQuMzA4LDIsNS45MTcsMgoJCSBNNS45MTcsMEMzLjIwMSwwLDEsMi4yMDEsMSw0LjkxN3MyLjIwMSw0LjkxNyw0LjkxNyw0LjkxN3M0LjkxNy0yLjIwMSw0LjkxNy00LjkxN0MxMC44MzMsMi4yMDEsOC42MzIsMCw1LjkxNywwTDUuOTE3LDB6IiAvPgo8L2c+Cjwvc3ZnPgo=');
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
 }
 
 .position {
-position:absolute;
-top:32px;
-right:0px;
-width:290px;
-line-height:0;
-z-index:9999;
-margin: 0 ; 
-padding: 0 ; 
+  position: absolute;
+  top: 32px;
+  right: 0;
+  width: 290px;
+  line-height: 0;
+  z-index: 9999;
+  margin: 0;
+  padding: 0;
 }
 
 .text {
-margin-top: 8%;
+  margin-top: 8%;
 }
 
 .texth1 {
-text-align:left;
-font-style:normal;
-color:rgb(0, 0, 0);
-font-weight:bold;
-font-size:24px;
-line-height:36px;
-margin: 0  0  -9px;
-padding: 0 ; 
+  text-align: left;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  margin: 0  0  -9px;
+  padding: 0;
 }
 
 .text_inside {
-text-align:left;
-color:rgb(0, 136, 204);
-text-decoration:none;
+  text-align: left;
+  color: rgb(0, 136, 204);
+  text-decoration: none;
 }
 
 .img_text1 {
-height:104px;
-width:980px;
-text-align:left;
-margin-right:auto;
-margin-left:auto;
-display:block;
-border-width: 0 ; 
-border-style: none; 
-border-color: white; 
+  height: 104px;
+  width: 980px;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border-width: 0;
+  border-style: none;
+  border-color: white;
 }
 
 .img_text2 {
-height:82px;
-width:980px;
-text-align:left;
-margin-right:auto;
-margin-left:auto;
-display:block;
-border-width: 0 ;
-border-style: none; 
-border-color: white; 
+  height: 82px;
+  width: 980px;
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  border-width: 0;
+  border-style: none;
+  border-color: white;
 }
 
 .img_text3 {
-display:block;
-text-align:center;
-position:relative;
-z-index:10;
-overflow-x:hidden;
-overflow-y:hidden;
-height:31px;
-margin: 0  auto; 
-padding: 0 ; 
+  display: block;
+  text-align: center;
+  position: relative;
+  z-index: 10;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 31px;
+  margin: 0 auto;
+  padding: 0;
 }
 
 .img_text3_a {
-color:rgb(0, 136, 204);
-text-decoration:none;
-display:inline-block;
-height:29px;
-margin: 0  18px 25px; 
+  color: rgb(0, 136, 204);
+  text-decoration: none;
+  display: inline-block;
+  height: 29px;
+  margin: 0  18px 25px;
 }
 
 .img_text3_img {
-height:64px;
-width:980px;
-display:inline-block;
-border-width: 0 ; 
-border-style: none; 
-border-color: white; 
+  height: 64px;
+  width: 980px;
+  display: inline-block;
+  border-width: 0;
+  border-style: none;
+  border-color: white;
 }
 
 .text_h2 {
-text-align:left;
-font-style:normal;
-color:rgb(0, 0, 0);
-font-weight:bold;
-line-height:18px;
-font-size:16px;
+  text-align: left;
+  font-style: normal;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 18px;
+  font-size: 16px;
 margin: 0  0  27px;
 padding: 0 ; 
 }
