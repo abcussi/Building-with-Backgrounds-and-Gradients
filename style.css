@@ -9,12 +9,12 @@ main{
     left:50%;
     width:1440px;
     background-image:url('https://archive.md/UW4oR/c737ac2a39d31e8407c5d08a73daddc5ddcf5d3e.jpg');
-    background-color: transparent; 
+    background-color: transparent;
     background-size:1440px 1315px;
-    background-position: 50% 100%; 
-    background-repeat: no-repeat; 
-    margin: 0px 0px 0px -720px; 
-    padding: 0px;   
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    margin:0px 0px 0px -720px;
+    padding:0;
 }
 nav{
     position:relative;
@@ -380,7 +380,6 @@ li a span{
     background-position: 50% 100%; 
     background-repeat: no-repeat; 
     margin: 0px 0px 0px -720px; 
-   
 }
 .grid_elements{
     margin-top: 3px;
@@ -429,8 +428,6 @@ footer a{
     width: 720px;
     text-align: right;
     margin-right: 4%;
-    
-    
 }
 .text2 a{
     text-align: right;
