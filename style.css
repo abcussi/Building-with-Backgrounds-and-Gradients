@@ -33,7 +33,7 @@ nav {
   height: 36px;
   background-size: cover;
   background-image: url('https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png');
-  background-color: rgba(0, 0, 0, 0.296875);
+  background-color: transparent;
   margin: 0 auto;
   padding: 0;
 }
@@ -62,7 +62,7 @@ li {
 }
 
 .apple_logo {
-  color: rgb(0, 136, 204);
+  color: transparent;
   overflow-x: hidden;
   overflow-y: hidden;
   text-indent: -9999px;
@@ -95,7 +95,8 @@ li {
 }
 
 .li_menu {
-  color: rgb(0, 136, 204);
+  border-left: black 1px;
+  color: transparent;
   overflow-x: hidden;
   overflow-y: hidden;
   text-indent: -9999px;
